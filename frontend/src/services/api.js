@@ -1,10 +1,12 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:4000/api";
-const AUTH_BASE_URL = import.meta.env.VITE_AUTH_BASE_URL || "http://localhost:5000/api";
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL || "http://localhost:4000/api";
+const AUTH_BASE_URL =
+  import.meta.env.VITE_AUTH_BASE_URL || "http://localhost:5000/api";
 
 async function request(baseUrl, path, options = {}) {
   const res = await fetch(`${baseUrl}${path}`, {
-    headers: { "Content-Type": "application/json", ...options.headers },
     ...options,
+    headers: { "Content-Type": "application/json", ...options.headers },
   });
 
   const data = await res.json().catch(() => null);
