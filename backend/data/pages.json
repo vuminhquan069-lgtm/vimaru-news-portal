@@ -1,0 +1,69 @@
+{
+  "school": {
+    "name": "Trường Đại học Hàng hải Việt Nam",
+    "shortName": "VIMARU",
+    "englishName": "Vietnam Maritime University",
+    "slogan": "Trường đại học đa ngành, uy tín trong khu vực và trên thế giới",
+    "founded": "01/04/1956",
+    "history": "Tiền thân là Trường Sơ cấp Hàng hải, được thành lập ngày 01/04/1956 tại Hải Phòng trên cơ sở hợp nhất Trường Sơ cấp Lái tàu và Trường Sơ cấp Máy tàu. Trải qua nhiều giai đoạn phát triển gắn liền với ngành hàng hải và vận tải biển Việt Nam, trường đã trở thành một trong những cơ sở đào tạo đa ngành hàng đầu cả nước, đặc biệt trong lĩnh vực kinh tế biển và giao thông vận tải.",
+    "mission": "Là trường đại học đa ngành nghề có uy tín trong khu vực và thế giới; đào tạo nguồn nhân lực chất lượng cao cho ngành kinh tế biển và xã hội, phục vụ công cuộc xây dựng đất nước và hội nhập quốc tế.",
+    "vision": "Phát triển Trường Đại học Hàng hải Việt Nam thành trung tâm đào tạo chất lượng cao, nghiên cứu khoa học, đổi mới sáng tạo, hợp tác chuyển giao - ứng dụng công nghệ, trong đó lĩnh vực giao thông vận tải và kinh tế biển đạt trình độ khu vực và thế giới.",
+    "contact": {
+      "address": "Số 484 Lạch Tray, phường Kênh Dương, quận Lê Chân, TP. Hải Phòng",
+      "phone": "(+84) 225 3829 109",
+      "fax": "(+84) 225 3735 282",
+      "email": "info@vimaru.edu.vn",
+      "website": "https://vimaru.edu.vn"
+    }
+  },
+  "faculties": [
+    {
+      "id": 1,
+      "name": "Khoa Hàng hải",
+      "description": "Đào tạo sĩ quan điều khiển tàu biển, quản lý khai thác vận tải và logistics hàng hải."
+    },
+    {
+      "id": 2,
+      "name": "Khoa Máy tàu biển",
+      "description": "Đào tạo kỹ sư khai thác, vận hành và bảo trì hệ thống máy tàu thủy."
+    },
+    {
+      "id": 3,
+      "name": "Khoa Điện - Điện tử",
+      "description": "Đào tạo kỹ sư điện tự động công nghiệp, điện tử viễn thông và tự động hóa tàu thủy."
+    },
+    {
+      "id": 4,
+      "name": "Khoa Cơ khí",
+      "description": "Đào tạo kỹ sư cơ khí động lực, đóng tàu và công trình ngoài khơi."
+    },
+    {
+      "id": 5,
+      "name": "Khoa Công nghệ thông tin",
+      "description": "Đào tạo kỹ sư/cử nhân công nghệ thông tin, đóng tàu số, hệ thống thông tin hàng hải."
+    },
+    {
+      "id": 6,
+      "name": "Khoa Kinh tế",
+      "description": "Đào tạo cử nhân kinh tế vận tải biển, logistics và quản trị kinh doanh."
+    },
+    {
+      "id": 7,
+      "name": "Khoa Công trình",
+      "description": "Đào tạo kỹ sư xây dựng công trình thủy, cảng - đường thủy."
+    },
+    {
+      "id": 8,
+      "name": "Khoa Ngoại ngữ",
+      "description": "Đào tạo tiếng Anh chuyên ngành hàng hải và ngoại ngữ cho toàn trường."
+    }
+  ],
+  "institutes": [
+    "Viện Đào tạo Sau đại học",
+    "Viện Đào tạo Quốc tế",
+    "Viện Nghiên cứu Khoa học và Công nghệ Hàng hải",
+    "Viện Môi trường",
+    "Trung tâm Huấn luyện Thuyền viên",
+    "Trung tâm Ngoại ngữ (VMEC)"
+  ]
+}
